@@ -1,0 +1,4 @@
+CryptQueryObjectSample
+======================
+
+CryptQueryObject Sample
